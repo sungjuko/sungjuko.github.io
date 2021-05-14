@@ -8,19 +8,16 @@ permalink: /about/
 ## soreal
 
 
-- 거주: 서울  
-- 직업: 개발자  
-- 특기: 기록하기, 추천하기  
-- 취미: 책 읽기, 영화보기  
-- 원래 전공: 역사, 국제정치, 경제, 법
+- 거주: 인천
+- 직업: IT
 
 * * *
 
-> blog : https://soreal13.github.io
+> blog : https://sungjuko.github.io
 
-> e-mail : blueruah@gmail.com
+> e-mail : tnghcjs4851@gmail.com
 
-> github : https://github.com/soreal13
+> github : https://github.com/sungjuko
 
 
 
