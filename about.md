@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-## soreal
+## Sungju
 
 
 - 거주: 인천
