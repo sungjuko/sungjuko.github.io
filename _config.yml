@@ -7,11 +7,11 @@
 # 파운드 기호 뒤의 텍스트는 설명 문서이며 프로그램에서 읽을 수 없습니다.
 
 # 설명 / 서명
-name: soreal13
-description: soreal의 개발 블로그
+name: sungju
+description: 승주 노트
 
 # 웹 사이트 도메인 이름을 입력합니다 (자신의 도메인 이름을 추가하지 않았지만 GitHub 페이지에서 할당 한 도메인 이름을 직접 사용하는 경우 생략 가능)
-url: https://soreal13.github.io
+url: https://sungjuko.github.io
 
 # 블로그의 두 번째 수준 도메인 이름 (일반적으로 저장소 이름)을 추가합니다.
 # 블로그의 URL：(http://yourusername.github.io/repository-name)
@@ -52,10 +52,10 @@ footer-links:
   weibo:  #Weibo 개인 도메인명 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: blueruah@gmail.com
+  email: tnghcjs4851@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/soreal13 #https://github.com/<>
+  github: https://github.com/sungjuko #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 사이트 바닥 글 텍스트
-footer-text: Copyright (c) 2020 soreal13
+footer-text: Copyright (c) 2021 sungjuko
 
 #
 # 댓글 주의, 여러 댓글 영역을 동시에 추가하지 마세요.
@@ -79,8 +79,8 @@ disqus: #soreal13 #shortname
 gitalk:
   clientID: 2e47d49f3a28cd1e6eaa
   clientSecret: 7bd68aec92c8b6e3e933be70ab3d9a7cd1ae41b6
-  repo: soreal13.github.io
-  owner: soreal13
+  repo: sungjuko.github.io
+  owner: sungjuko
 
 # 시작 Google Analytics web tracking code
 google_analytics: G-NFZ0GXC5W9
