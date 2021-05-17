@@ -24,10 +24,10 @@ baseurl:
 #
 
 # 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+# avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
 # favicon（브라우저탭상）이미지 URL，(64px × 64px) 이하 사용 권장
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+# favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
 # 메뉴 버튼
