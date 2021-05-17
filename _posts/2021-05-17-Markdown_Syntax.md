@@ -160,10 +160,10 @@ HTML을 잘 모르므로 마크다운(Markdown) 문법이 익숙해지자 (마�
 ![test](https://github.com/MinsoftK/TIL/blob/master/Algorithm/image/2-counting_cell_01.png?raw=true)
 
 로컬 경로로 삽입할 경우
-![test](D:\001.Markdown\sungjuko.github.io\images\/profile_a.jpg "테스트")
+![test](images/profile_a.jpg "테스트")
 ```
 
-![test](D:\001.Markdown\sungjuko.github.io\images\/profile_a.jpg "테스트")
+![test](images/profile_a.jpg "테스트")
 
 ### 링크
 
