@@ -77,8 +77,8 @@ disqus: #soreal13 #shortname
 
 # 코멘트 영역을 추가하려면 Gitalk 관련 설정을 입력. 자세한 내용은 튜토리얼을 참조
 gitalk:
-  clientID: 2e47d49f3a28cd1e6eaa
-  clientSecret: 7bd68aec92c8b6e3e933be70ab3d9a7cd1ae41b6
+  clientID: f662606ad9c54656d8e0
+  clientSecret: dc445913da1f98fa67655351e396d21ace133ec7
   repo: sungjuko.github.io
   owner: sungjuko
 
